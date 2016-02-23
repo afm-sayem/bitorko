@@ -6,7 +6,7 @@ Bitorko (বিতর্ক) is the end to end debate tournament organization an
 
 ## Technical specifications:
 
-The projects client(frontend) is built on [Aurelia](http://aurelia.io). The server component is running on (expressJS)[http://expressjs.com/] with [PostgreSQL](http://postgresql.org) as the database.
+The projects client(frontend) is built on [Aurelia](http://aurelia.io). The server component is running on [expressJS](http://expressjs.com/) with [PostgreSQL](http://postgresql.org) as the database.
 
 To run the project:
 - Install nodeJS > 5.x (we recommend using [nvm](https://github.com/creationix/nvm))
